@@ -1,0 +1,2 @@
+C:\Users\mafio\source\repos\NewWalletApi\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\mafio\source\repos\NewWalletApi\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
